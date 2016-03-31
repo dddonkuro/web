@@ -43,3 +43,6 @@ spapp.controller('contact', function($scope, $http) {
 function gitFunc(){
 	console.log("git practice, delete this function after.");
 }
+function gitFunc2(){
+	console.log("git practice, delete this function after.");
+}

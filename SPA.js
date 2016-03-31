@@ -38,3 +38,8 @@ spapp.controller('contact', function($scope, $http) {
 	};
 
 });
+
+// add dummy function for git practice
+function gitFunc(){
+	console.log("git practice, delete this function after.");
+}

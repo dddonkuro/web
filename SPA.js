@@ -46,3 +46,7 @@ function gitFunc(){
 function gitFunc2(){
 	console.log("git practice, delete this function after.");
 }
+
+function gitFunc3(){
+	console.log("git practice, delete this function after.");
+}
